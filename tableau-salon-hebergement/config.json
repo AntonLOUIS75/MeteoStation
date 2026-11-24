@@ -1,0 +1,20 @@
+{
+  "weather": {
+    "city": "Paris · Montsouris",
+    "latitude": 48.8222,
+    "longitude": 2.3378
+  },
+  "transport_refresh_seconds": 15,
+  "stops": [
+    {
+      "label": "Bus 64 · les deux sens",
+      "monitoring_ref": "STIF:StopArea:SP:470522:",
+      "line_ref": "STIF:Line::C01100:"
+    },
+    {
+      "label": "Bus 21 · les deux sens",
+      "monitoring_ref": "STIF:StopArea:SP:470522:",
+      "line_ref": "STIF:Line::C01073:"
+    }
+  ]
+}
